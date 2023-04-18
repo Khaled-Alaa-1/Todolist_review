@@ -26,7 +26,7 @@ tasksContainer.addEventListener('click', (event) => {
   if (deleteTaskIcon) {
     const deleteTaskIcons = tasksContainer.querySelectorAll('.delete-task-icon');
     const index = Array.from(deleteTaskIcons).indexOf(deleteTaskIcon);
-    render();
+    render(index);
   }
 });
 
