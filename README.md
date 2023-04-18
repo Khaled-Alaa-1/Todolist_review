@@ -76,7 +76,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://khaled-alaa-1.github.io/To-Do-list/dist/)
+- [Live Demo Link](https://khaled-alaa-1.github.io/Todolist_review/dist/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -157,7 +157,7 @@ https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Khaled-Alaa-1/To-Do-list/blob/list-structure/MIT.md) licensed.
+This project is [MIT](https://github.com/Khaled-Alaa-1/Todolist_review/blob/REVIEW/MIT.md) licensed.
 
 
 
